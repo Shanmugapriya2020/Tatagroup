@@ -1,2 +1,2 @@
 # Tatagroup
-Data Vualization va Tableau
+Data Visulization vaa Tableau
